@@ -1,12 +1,13 @@
-Как запустить
-Установите зависимости:
+# Как запустить?
 
-python -m pip install -r requirements.txt
+**Установите зависимости:**
 
-Выполните миграции:
+`python -m pip install -r requirements.txt`
 
-python manage.py migrate
+**Выполните миграции:**
 
-Запустите сервер:
+`python manage.py migrate`
 
-python manage.py runserver
+**Запустите сервер:**
+
+`python manage.py runserver`
